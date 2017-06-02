@@ -1,0 +1,12 @@
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\Assembly-CSharp.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\Assembly-CSharp.pdb
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\UnityEditor.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\UnityEngine.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\Mono.Cecil.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\nunit.framework.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+N:\College\Capstone\Capstone\LSF\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+N:\College\Capstone\Capstone\LSF\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+N:\College\Capstone\Capstone\LSF\obj\Debug\Assembly-CSharp.dll
+N:\College\Capstone\Capstone\LSF\obj\Debug\Assembly-CSharp.pdb
